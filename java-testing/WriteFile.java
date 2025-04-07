@@ -17,7 +17,11 @@ public class WriteFile {
             }
 
             try (FileWriter updateFile = new FileWriter("/Users/drc/GitHub/java/javaRecorn/java-testing/hello1.txt")) {
-                updateFile.write("Java Files are realy tricky");
+
+                updateFile.write("Hello world. ");
+                updateFile.write("Java Files are realy tricky. ");
+                updateFile.write("Not that much believe me");
+
             }
     
             System.out.println("Text successfully added");
