@@ -1,0 +1,11 @@
+Flight from #LAX to #JFK departing at T24(2025-06-01T15:00:00-07:00).
+Arrival at D(2025-06-01T23:30:00-04:00).
+Layover at ##KLAX for 2 hours.
+
+Continue to #ORD at              T12(2025-06-02T06:00:00-05:00).
+  
+  #ORD
+  #LAX
+
+
+Here is dou     ble     Sp   a   ce
