@@ -22,10 +22,10 @@ Built with Java 11+ , run via command line.
 ### 1. Clone the repository
 
 ```bash
-git clone https://gitea.kood.tech/timurbaltabaev/itinerary.git
+git clone git@github.com:digitalNomadKg/javaRecorn.git
 ```
 ```bash
-git clone ssh://git@gitea.kood.tech:22123/timurbaltabaev/itinerary.git
+git clone https://github.com/digitalNomadKg/javaRecorn.git
 ```
 ```bash
 cd itinerary
